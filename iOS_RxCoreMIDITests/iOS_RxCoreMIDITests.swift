@@ -1,15 +1,15 @@
 //
-//  RxCoreMIDITests.swift
-//  RxCoreMIDITests
+//  iOS_RxCoreMIDITests.swift
+//  iOS_RxCoreMIDITests
 //
-//  Created by Maxim Volgin on 01/11/2018.
-//  Copyright © 2018 Maxim Volgin. All rights reserved.
+//  Created by Maxim Volgin on 27/02/2019.
+//  Copyright © 2019 Maxim Volgin. All rights reserved.
 //
 
 import XCTest
-@testable import RxCoreMIDI
+@testable import iOS_RxCoreMIDI
 
-class RxCoreMIDITests: XCTestCase {
+class iOS_RxCoreMIDITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
