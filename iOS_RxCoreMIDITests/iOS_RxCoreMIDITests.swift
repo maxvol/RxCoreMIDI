@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import iOS_RxCoreMIDI
+@testable import RxCoreMIDI
 
 class iOS_RxCoreMIDITests: XCTestCase {
 
@@ -22,6 +22,7 @@ class iOS_RxCoreMIDITests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        testMIDIByte()
     }
 
     func testPerformanceExample() {
